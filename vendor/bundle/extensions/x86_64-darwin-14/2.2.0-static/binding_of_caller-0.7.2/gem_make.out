@@ -1,0 +1,16 @@
+current directory: /Users/sunnygarg/etsydemo/vendor/bundle/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+/Users/sunnygarg/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20160101-4601-rmxi84.rb extconf.rb
+
+current directory: /Users/sunnygarg/etsydemo/vendor/bundle/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/sunnygarg/etsydemo/vendor/bundle/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /Users/sunnygarg/etsydemo/vendor/bundle/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.
